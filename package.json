@@ -1,0 +1,17 @@
+{
+  "name": "express-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Anis Alkomem",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.4",
+    "moment": "^2.25.3",
+    "uuid": "^8.0.0"
+  }
+}
